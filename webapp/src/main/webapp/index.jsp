@@ -1,4 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-
-<h1> Hello, Welcome to VEERABABU TECHNOligies !!! </h1>
+<h1> Hello, Welcome to Valaxy Technologies !!!  Hello, Welcome to VEERABABU TECHNOligies !!! </h1>
 
